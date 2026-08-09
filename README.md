@@ -1,2 +1,2 @@
 # CodeAlpha_StudentGradeTracker
-this is my first github repository.
+This is my first github repository.
